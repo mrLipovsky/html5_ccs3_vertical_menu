@@ -1,0 +1,38 @@
+ul{
+background-color: slategrey;
+width: 1em;
+padding-left: 0;
+}
+
+li{
+display: inline-block;
+background-color: rgb(48, 47, 47);
+height: 2em;
+padding-left: 1em;
+}
+
+.text:hover{
+background-color: rgb(48, 47, 47);
+color: whitesmoke;
+font-size: 100%;
+width: 8em;
+}
+
+img{
+    padding-right: 1em;
+}
+
+ul:hover{
+background-color: rgb(48, 47, 47);
+color: whitesmoke;
+font-size: 100%;
+}
+
+.text{
+background-color: slategrey;
+color:azure;
+font-size: 100%;
+width: 8rem;
+display: flex;
+align-items: center;
+}
